@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: e0fbb07b11481fb4c95f985ed732c38f
+=======
+guid: 88e16059beb84a44fb7e68d3a848a5cc
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+=======
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slash Effect_0
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 19
+        y: 51
+        width: 17
+        height: 6
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 0107fe1aeb59bf74cb324551e4895b6d
+      internalID: 1546426732
+=======
+      spriteID: b27b0fa92830a7842bb71deddad98bd5
+      internalID: -161897710
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_1
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 83
+        y: 50
+        width: 28
+        height: 7
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: add4ad539b366ec4c9a8d0babcaf57f8
+      internalID: -1555014052
+=======
+      spriteID: b928aa7bb6dd6804a9451cdc0263a9c5
+      internalID: 883864838
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_2
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 155
+        y: 41
+        width: 27
+        height: 15
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 7bb290283a8cb6d4f9c150c1128b5d9f
+      internalID: -1142755254
+=======
+      spriteID: 1e65e8799cfe2614f8a5a2ee3f12afc8
+      internalID: 1327863532
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_3
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 223
+        y: 20
+        width: 26
+        height: 36
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: d2ccd92da0446ae448f5b571d55af11a
+      internalID: 176526682
+=======
+      spriteID: 9eb63d06a2186f443aa4a4bd6220ada3
+      internalID: 749084982
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_4
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 293
+        y: 8
+        width: 20
+        height: 47
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 11881631aa350d4409333b00125d87f3
+      internalID: 1391265406
+=======
+      spriteID: 1c31134bfbf5ca24cbfa47274222eff5
+      internalID: -593997222
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_5
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 346
+        y: 7
+        width: 31
+        height: 46
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 73f6a90461c7cae42b6949024dd5ae68
+      internalID: 616455259
+=======
+      spriteID: c6e25405a27b1e74ca7b555c6680d7ba
+      internalID: 1750314796
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_6
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 408
+        y: 7
+        width: 33
+        height: 36
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 3a1a4327255e6ef4eae406df4de13359
+      internalID: -1916612633
+=======
+      spriteID: da19944580bf13d4898d8865e459c06f
+      internalID: 267433119
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_7
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 470
+        y: 7
+        width: 35
+        height: 29
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 8e2610e4644a96a4dba94ff0f76116ea
+      internalID: -966564624
+=======
+      spriteID: dce18bbb260117148856f2a9763535bf
+      internalID: -911627588
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slash Effect_8
+      rect:
+        serializedVersion: 2
+<<<<<<< HEAD
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+=======
+        x: 532
+        y: 7
+        width: 37
+        height: 24
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+<<<<<<< HEAD
+      spriteID: 08a8db9ddb462f343a0daf7869916f73
+      internalID: -1997962652
+=======
+      spriteID: dec1c94d182e335488030a78f5326019
+      internalID: -312014017
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+<<<<<<< HEAD
+      Slash Effect_0: 1546426732
+      Slash Effect_1: -1555014052
+      Slash Effect_2: -1142755254
+      Slash Effect_3: 176526682
+      Slash Effect_4: 1391265406
+      Slash Effect_5: 616455259
+      Slash Effect_6: -1916612633
+      Slash Effect_7: -966564624
+      Slash Effect_8: -1997962652
+=======
+      Slash Effect_0: -161897710
+      Slash Effect_1: 883864838
+      Slash Effect_2: 1327863532
+      Slash Effect_3: 749084982
+      Slash Effect_4: -593997222
+      Slash Effect_5: 1750314796
+      Slash Effect_6: 267433119
+      Slash Effect_7: -911627588
+      Slash Effect_8: -312014017
+>>>>>>> 1796edde3c49c9a9619c2d49f756b6112ed410d5
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
