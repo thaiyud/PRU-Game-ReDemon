@@ -6,6 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Chapter3/BossScene.unity
+    guid: 5f3d3867d66e3da44a25c6ceb77d3004
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/Scene 3.1.unity
+    guid: 19038b625e023924eb31b17932c31c3f
+  - enabled: 1
+    path: Assets/Scenes/Chapter3/Scenes3.2.unity
+    guid: ebb072bf25c4aad47912633c26fb3935
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/BossSceneC1.unity
+    guid: 42e9234c788678241b5bb969bd94c966
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1.1.unity
+    guid: eab9ba05e0b7de24f800d734cd2a4b22
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/1.2.unity
+    guid: b46f496a782ceed4daddc52e0e1bcd8a
+  - enabled: 1
+    path: Assets/Scenes/Chapter5/BossSceneC5.unity
+    guid: 69273189a14170b4490ee85a0802f202
+  - enabled: 1
+    path: Assets/Scenes/Chapter5/5.1.unity
+    guid: b3343e1105d55814e85966dc2e546b35
+  - enabled: 1
+    path: Assets/Scenes/Chapter5/5.2.unity
+    guid: e1403f7413e466f45a6c384fa41c64fd
+  - enabled: 1
+    path: Assets/Scenes/HighScoreMenu.unity
+    guid: 1a687b95cd3ee3444b7b944ae6d031ab
   m_configObjects: {}
